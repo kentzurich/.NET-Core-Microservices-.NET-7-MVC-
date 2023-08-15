@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Mango.Service.EmailAPI.props" />
+</Project>

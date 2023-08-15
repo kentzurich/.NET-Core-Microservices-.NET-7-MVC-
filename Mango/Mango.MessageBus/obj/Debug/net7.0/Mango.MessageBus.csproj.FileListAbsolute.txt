@@ -1,0 +1,12 @@
+C:\Users\kentz\Documents\GitHub\.NET-Core-Microservices-.NET-8-MVC-\Mango\Mango.MessageBus\bin\Debug\net7.0\Mango.MessageBus.deps.json
+C:\Users\kentz\Documents\GitHub\.NET-Core-Microservices-.NET-8-MVC-\Mango\Mango.MessageBus\bin\Debug\net7.0\Mango.MessageBus.dll
+C:\Users\kentz\Documents\GitHub\.NET-Core-Microservices-.NET-8-MVC-\Mango\Mango.MessageBus\bin\Debug\net7.0\Mango.MessageBus.pdb
+C:\Users\kentz\Documents\GitHub\.NET-Core-Microservices-.NET-8-MVC-\Mango\Mango.MessageBus\obj\Debug\net7.0\Mango.MessageBus.csproj.AssemblyReference.cache
+C:\Users\kentz\Documents\GitHub\.NET-Core-Microservices-.NET-8-MVC-\Mango\Mango.MessageBus\obj\Debug\net7.0\Mango.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kentz\Documents\GitHub\.NET-Core-Microservices-.NET-8-MVC-\Mango\Mango.MessageBus\obj\Debug\net7.0\Mango.MessageBus.AssemblyInfoInputs.cache
+C:\Users\kentz\Documents\GitHub\.NET-Core-Microservices-.NET-8-MVC-\Mango\Mango.MessageBus\obj\Debug\net7.0\Mango.MessageBus.AssemblyInfo.cs
+C:\Users\kentz\Documents\GitHub\.NET-Core-Microservices-.NET-8-MVC-\Mango\Mango.MessageBus\obj\Debug\net7.0\Mango.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\kentz\Documents\GitHub\.NET-Core-Microservices-.NET-8-MVC-\Mango\Mango.MessageBus\obj\Debug\net7.0\Mango.MessageBus.dll
+C:\Users\kentz\Documents\GitHub\.NET-Core-Microservices-.NET-8-MVC-\Mango\Mango.MessageBus\obj\Debug\net7.0\refint\Mango.MessageBus.dll
+C:\Users\kentz\Documents\GitHub\.NET-Core-Microservices-.NET-8-MVC-\Mango\Mango.MessageBus\obj\Debug\net7.0\Mango.MessageBus.pdb
+C:\Users\kentz\Documents\GitHub\.NET-Core-Microservices-.NET-8-MVC-\Mango\Mango.MessageBus\obj\Debug\net7.0\ref\Mango.MessageBus.dll
